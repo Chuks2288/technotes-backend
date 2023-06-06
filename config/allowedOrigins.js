@@ -1,6 +1,6 @@
 const allowedOrigins = [
     // 'http://localhost:3000',
-    'https://www.technotes.onrender.com',
+    'https://technotes-zj27.onrender.com',
     'http://dandrepairshop.com'
 ]
 
